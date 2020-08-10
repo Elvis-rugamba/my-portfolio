@@ -15,8 +15,8 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          a fullstack software engineer skilled in{' '}
-          <code className={styles.code}>Node.js</code> and <code className={styles.code}>React.js</code>
+          a fullstack software engineer
+         {/*<code className={styles.code}>Node.js</code> and <code className={styles.code}>React.js</code>*/}
         </p>
 
         <div className={styles.grid}>
@@ -44,7 +44,7 @@ export default function Home() {
           >
             <h3>Contact &rarr;</h3>
             <p>
-              Have a question, need help or want to work together?.
+              Have a question?.
             </p>
           </a>
         </div>
@@ -56,8 +56,8 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Elvis Rugamba &copy; 2020{' '}
-          <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
+          Elvis Rugamba &copy; 2020
+          {/*<img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />*/}
         </a>
       </footer>
     </div>
