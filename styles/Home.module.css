@@ -34,6 +34,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  color: #ea0599;
 }
 
 .title a {
@@ -56,7 +57,7 @@
 .title,
 .description {
   text-align: center;
-  color: #6a0572;
+  color: #9a0f98;
 }
 
 .description {
@@ -88,7 +89,7 @@
   flex-basis: 45%;
   padding: 1.5rem;
   text-align: left;
-  color: #6a0572;
+  color: #9a0f98;
   text-decoration: none;
   border: 1px solid #ea0599;
   border-radius: 10px;
