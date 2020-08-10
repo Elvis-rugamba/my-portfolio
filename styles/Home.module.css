@@ -100,7 +100,7 @@
 .card:focus,
 .card:active {
   color: #ffffff;
-  border-color: #ffffff;
+  border-color: #090088;
   background: #090088;
 }
 
