@@ -15,19 +15,19 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          I&apos;m fullstack engineer skilled in{' '}
-          <code className={styles.code}>Node.js</code> and <code className={styles.code}>React.js</code>
+          a fullstack software engineer
+         {/*<code className={styles.code}>Node.js</code> and <code className={styles.code}>React.js</code>*/}
         </p>
 
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h3>About &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
+            <p>Read more about me.</p>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
             <h3>Portfolio &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
+            <p>Selection of some recent work.</p>
           </a>
 
           <a
@@ -35,7 +35,7 @@ export default function Home() {
             className={styles.card}
           >
             <h3>Blogs &rarr;</h3>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+            <p>My recent blog posts.</p>
           </a>
 
           <a
@@ -44,7 +44,7 @@ export default function Home() {
           >
             <h3>Contact &rarr;</h3>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+              Have a question?.
             </p>
           </a>
         </div>
@@ -56,8 +56,8 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Elvis Rugamba &copy; 2020{' '}
-          <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
+          Elvis Rugamba &copy; 2020
+          {/*<img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />*/}
         </a>
       </footer>
     </div>
