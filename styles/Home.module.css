@@ -20,7 +20,7 @@
 .footer {
   width: 100%;
   height: 100px;
-  border-top: 1px solid #eaeaea;
+  border-top: 1px solid #ea0599;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -34,7 +34,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  color: #ea0599;
+  color: #ffffff;
 }
 
 .title a {
@@ -57,7 +57,7 @@
 .title,
 .description {
   text-align: center;
-  color: #9a0f98;
+  color: #ffffff;
 }
 
 .description {
@@ -89,7 +89,7 @@
   flex-basis: 45%;
   padding: 1.5rem;
   text-align: left;
-  color: #9a0f98;
+  color: #ffffff;
   text-decoration: none;
   border: 1px solid #ea0599;
   border-radius: 10px;
