@@ -5,7 +5,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: #278ea5;
+  background: #03002e;
 }
 
 .main {
@@ -34,11 +34,11 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  color: #1f4287;
+  color: #010048;
 }
 
 .title a {
-  color: #21e6c1;
+  color: #090088;
   text-decoration: none;
 }
 
@@ -89,9 +89,9 @@
   flex-basis: 45%;
   padding: 1.5rem;
   text-align: left;
-  color: #21e6c1;
+  color: #ffffff;
   text-decoration: none;
-  border: 1px solid #21e6c1;
+  border: 1px solid #ffffff;
   border-radius: 10px;
   transition: color 0.15s ease, border-color 0.15s ease;
 }
@@ -99,8 +99,8 @@
 .card:hover,
 .card:focus,
 .card:active {
-  color: #071e3d;
-  border-color: #071e3d;
+  color: #010048;
+  border-color: #010048;
 }
 
 .card h3 {
